@@ -1,0 +1,7 @@
+color = input("Enter a color:")
+number = input("Enter a number:")
+plural_noun = input("Enter a plural noun:")
+person = input("Enter a person:")
+
+print(f"Karen's eyes are the color of {color}, as she sat arrived at the restaurant for her dinner date. She couldn't help but see the {plural_noun} her date brought with him. {person} said she would have fun on this blind date, but it only took {number} seconds for her to realize she needed to run away!")
+
